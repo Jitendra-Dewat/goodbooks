@@ -1,0 +1,40 @@
+.App {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  body {
+    font-family: "Lato", sans-serif;
+    background-color: #efefef;
+  }
+
+  .bookGener {
+    cursor:pointer;
+    background: #E5E7EB;
+    border-radius: 0.5rem;
+    padding: 0.5rem  1rem;
+    border: 1px solid black;
+    margin: 1rem 0.3rem;
+  }
+
+.books-container {
+    text-align: left;
+}
+
+.list {
+    padding-inline-start: 0px;
+}
+
+.list-item {
+    list-style: none;
+    padding: 1rem;
+    border: 1px solid #D1D5DB;
+    width: 70%;
+    margin: 1rem 0rem;
+    border-radius: 0.5rem;
+}
+
+
+
+  
